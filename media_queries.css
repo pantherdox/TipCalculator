@@ -1,9 +1,5 @@
 @media screen and (max-width: 479px){
 
-    body{
-        min-height: 200vh;
-    }
-
     .container{
         width: 100%;
         flex-direction: column;
