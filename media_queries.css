@@ -1,0 +1,24 @@
+@media screen and (max-width: 479px){
+
+    body{
+        min-height: 200vh;
+    }
+
+    .container{
+        width: 100%;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .l-div-card{
+        width: 300px;
+        margin-bottom: 40px;
+    }
+
+    .r-div-card{
+        width: 350px;
+        height: 320px;
+    }
+    
+    
+}
